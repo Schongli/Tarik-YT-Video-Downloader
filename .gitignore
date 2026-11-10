@@ -1,0 +1,7 @@
+# built app and the engine it bundles (build.sh fetches and verifies the engine)
+dist/
+engine/
+# screenshots and the assembled page from test/ui_check.py
+test/out/
+# any other built binary
+*.exe
